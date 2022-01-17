@@ -1,0 +1,16 @@
+//dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+//    repositories {
+//        google()
+//        mavenCentral()
+//        jcenter() // Warning: this repository is going to shut down soon
+////        flatDir {
+////            dirs 'libs'
+////        }
+//        maven {
+//            url = "https://plugins.gradle.org/m2/"
+//        }
+//    }
+//}
+rootProject.name = "TestApplication"
+include ':app'
